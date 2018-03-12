@@ -1,5 +1,5 @@
 
-My program: https://github.com/NicolineDS/Mini_ex5/blob/master/Mini_ex5/empty-example/index.html
+My program: https://rawgit.com/NicolineDS/Mini_ex5/master/Mini_ex5/empty-example/index.html
 (I could not get the link to run on my computer, but I could not find the problem)
 
 My program consists of a fish, which is swimming in the ocean. The fish can be moved around by using the mouse. The program also consists of six bubbles that the fish can interact with. When the fish touched the bubbles the fish is rotating around it’s own centre.
